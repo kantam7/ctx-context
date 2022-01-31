@@ -1,0 +1,5 @@
+Dette måtte jeg gjøre for å få programmet jeg skrev på papir uten hjelpemidler til å fungere:
+
+Endra "Border: 1px red;", den fungerte ikke. Endra den til "Border 1px solid red;".
+
+La til et canvas som firkanten skal forholde seg til. 
